@@ -1,4 +1,11 @@
-![My stats](https://github-readme-stats.vercel.app/api?username=FormAToz&show_icons=true&count_private=true)
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=FormAToz3&show_icons=true&count_private=true">
+     <img height=150 src="https://github-readme-stats.vercel.app/api?username=FormAToz&show_icons=true&count_private=true"/>
+  </a>
+   <a href="https://github.com/FormAToz/formatoz">
+     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FormAToz&layout=compact"/>
+  </a>
+</p>
 
 
 ### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -34,3 +41,8 @@
 [telegram]: https://t.me/formatoz
 
 <hr/>
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/FormAToz/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=FormAToz&color=DE002D">
+   </a>
+</div>
