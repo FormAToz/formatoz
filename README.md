@@ -1,10 +1,13 @@
+## GITHUB STATISTICS
+
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=FormAToz3&show_icons=true&count_private=true">
      <!-- <img height=150 src="https://github-readme-stats.vercel.app/api?username=FormAToz&show_icons=true&count_private=true"/> -->
       <img height=150 src="https://github-stats-psiyavushs-projects.vercel.app/api?username=FormAToz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=en&rank_icon=github&hide=contribs,issues"/>
   </a>
    <a href="https://github.com/FormAToz/formatoz">
-     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FormAToz&layout=compact"/>
+     <!-- <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FormAToz&layout=compact"/> -->
+      <img height=150 src="https://github-stats-psiyavushs-projects.vercel.app/api/top-langs/?username=FormAToz&langs_count=8&layout=compact&theme=buefy&hide_border=true&locale=en&card_width=400"/>
   </a>
 </p>
 
