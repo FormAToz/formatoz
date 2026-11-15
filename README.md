@@ -1,4 +1,4 @@
-## GITHUB STATISTICS
+##  ɢɪᴛʜᴜʙ ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=FormAToz3&show_icons=true&count_private=true">
